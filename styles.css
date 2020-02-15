@@ -1,6 +1,21 @@
+#header {
+  text-align: center;
+}
+h1 {
+  font-size: 70px;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+span {
+  color: blue;
+  font-family: 'Dancing Script', cursive;
+}
 .card {
   width: 600px;
   margin-left: 100px;
-  float: left;
+  float : left;
 
+}
+p b {
+  font-size: 22px;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
