@@ -1,3 +1,6 @@
+body {
+
+}
 #header {
   text-align: center;
 }
@@ -13,9 +16,21 @@ span {
   width: 600px;
   margin-left: 100px;
   float : left;
-
+}
+.bg-image .card-body {
+  background-image: url(https://lh3.googleusercontent.com/proxy/Jk1AwwscLfF6kX_ScW_FMK_nC41R1BXROlWeM1W_EmyikGZs803ALbeps6htIZNa3xUJ0dtKlJi9xsHxDV90zq7nE9u-6x8-G7MG_iqlB-P2VcP_I2CfID1JRK216vblFKwNYQ);
+  
+}
+.card-body {
+  background-image: url(https://pausephoto.ca/wp-content/uploads/2018/07/edmonton-newborn-photographer-25.jpg);
 }
 p b {
   font-size: 22px;
   font-family: 'Open Sans Condensed', sans-serif;
+}
+.footer {
+  background-color: #303036 ;
+  color: #d3d3d3;
+  height: 300px;
+  margin-bottom: 0px;
 }
