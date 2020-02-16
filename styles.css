@@ -44,3 +44,14 @@ p b {
   margin-top: 10px;
 }
 
+.footer .footer-bottom {
+  background-color: #343a40;
+  color: #686868;
+  height: 50px;
+  text-align: center;
+  bottom: 0px;
+  left: 0px;
+  margin-top: 50px;
+  padding-top: 20px;
+  width: 100%;
+}
